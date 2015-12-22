@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hongnhung/Desktop/OnlineShopVersion2/app/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/Users/hongnhung/Desktop/OnlineShopVersion2/app/build/intermediates/pre-dexed/debug/gson-2.2.4-7bc8a440f41cd0f3af901f1ac68eceb68c225a6b.jar" />
+    </item>
+    <item
+        jar="/Users/hongnhung/Desktop/OnlineShopVersion2/app/libs/jsoup-1.8.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a86e137575e4a45f5a9eec407f8135512e823a2">
+        <dex dex="/Users/hongnhung/Desktop/OnlineShopVersion2/app/build/intermediates/pre-dexed/debug/jsoup-1.8.3-cee0293bcfa0db7ef2cbdfd8858331d598145181.jar" />
+    </item>
+    <item
+        jar="/Users/hongnhung/Desktop/OnlineShopVersion2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/hongnhung/Desktop/OnlineShopVersion2/app/build/intermediates/pre-dexed/debug/classes-c72b69a96654214a528f470e12d1da6a2542d4b2.jar" />
+    </item>
+    <item
+        jar="/Users/hongnhung/Desktop/OnlineShopVersion2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/hongnhung/Desktop/OnlineShopVersion2/app/build/intermediates/pre-dexed/debug/classes-cfb1d5bfcaa51b77a20b991e2b8b762e724a7bb9.jar" />
+    </item>
+    <item
+        jar="/Users/hongnhung/Desktop/OnlineShopVersion2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/hongnhung/Desktop/OnlineShopVersion2/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-df1e3a11cd355981fd16310141beb2cb7a3ca596.jar" />
+    </item>
+    <item
+        jar="/Users/hongnhung/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/hongnhung/Desktop/OnlineShopVersion2/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-1c1922531de5647b94592bed49bc6891363918ac.jar" />
+    </item>
+    <item
+        jar="/Users/hongnhung/Desktop/OnlineShopVersion2/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/hongnhung/Desktop/OnlineShopVersion2/app/build/intermediates/pre-dexed/debug/classes-a07d846b51de0dfa39461c8ecdf9830e08ca25b3.jar" />
+    </item>
+
+</items>

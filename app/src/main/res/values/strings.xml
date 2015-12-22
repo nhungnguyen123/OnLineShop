@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OnlineShop</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_setting__menu">Setting_Menu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="tab_1_title">Home Page</string>
+    <string name="tab_2_title">Điện Thoại - Laptop</string>
+    <string name="tab_3_title">Thời Trang - Làm Đẹp</string>
+
+    <string-array name="tab_1_items_menu">
+        <item>Advertise 1</item>
+        <item>Advertise 2</item>
+        <item>Advertise 3</item>
+        <item>Advertise 4</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_asdasdasdasdasdas">asdasdasdasdasdas</string>
+    <string name="title_activity_custom__menu__items">Custom_Menu_Items</string>
+</resources>
